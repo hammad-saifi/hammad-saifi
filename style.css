@@ -267,7 +267,7 @@
     width: 90px;
     border: 1px solid --color-two;
     border-radius: 50%;
-    background: url(./images/logo.png);
+    background: url(logo.png);
     background-size: var(--background-size);
     background-repeat: no-repeat;
     background-position: center;
